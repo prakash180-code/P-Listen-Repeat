@@ -1,0 +1,308 @@
+[
+  {
+    "id": "lesson_1",
+    "title": "Everyday Greetings",
+    "description": "Common greetings and how people check in with each other.",
+    "level": "Beginner",
+    "order": 1,
+    "phrases": [
+      {
+        "id": "phrase_1_1",
+        "lessonId": "lesson_1",
+        "text": "Hey, how's it going?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_1.mp3",
+        "pronunciationText": "Hey, how's it going?",
+        "order": 1,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_2",
+        "lessonId": "lesson_1",
+        "text": "How have you been?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_2.mp3",
+        "pronunciationText": "How have you been?",
+        "order": 2,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_3",
+        "lessonId": "lesson_1",
+        "text": "What are you up to?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_3.mp3",
+        "pronunciationText": "What are you up to?",
+        "order": 3,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_4",
+        "lessonId": "lesson_1",
+        "text": "How was your weekend?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_4.mp3",
+        "pronunciationText": "How was your weekend?",
+        "order": 4,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_5",
+        "lessonId": "lesson_1",
+        "text": "I'm doing pretty good.",
+        "audioPath": "assets/audio/lesson_1/phrase_1_5.mp3",
+        "pronunciationText": "I'm doing pretty good.",
+        "order": 5,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_6",
+        "lessonId": "lesson_1",
+        "text": "It's good to see you.",
+        "audioPath": "assets/audio/lesson_1/phrase_1_6.mp3",
+        "pronunciationText": "It's good to see you.",
+        "order": 6,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_7",
+        "lessonId": "lesson_1",
+        "text": "How's everything going?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_7.mp3",
+        "pronunciationText": "How's everything going?",
+        "order": 7,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_1_8",
+        "lessonId": "lesson_1",
+        "text": "What have you been up to lately?",
+        "audioPath": "assets/audio/lesson_1/phrase_1_8.mp3",
+        "pronunciationText": "What have you been up to lately?",
+        "order": 8,
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "id": "lesson_2",
+    "title": "Small Talk",
+    "description": "Casual questions to get to know someone better.",
+    "level": "Beginner",
+    "order": 2,
+    "phrases": [
+      {
+        "id": "phrase_2_1",
+        "lessonId": "lesson_2",
+        "text": "What do you do?",
+        "audioPath": "assets/audio/lesson_2/phrase_2_1.mp3",
+        "pronunciationText": "What do you do?",
+        "order": 1,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_2_2",
+        "lessonId": "lesson_2",
+        "text": "Where are you from?",
+        "audioPath": "assets/audio/lesson_2/phrase_2_2.mp3",
+        "pronunciationText": "Where are you from?",
+        "order": 2,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_2_3",
+        "lessonId": "lesson_2",
+        "text": "How long have you been here?",
+        "audioPath": "assets/audio/lesson_2/phrase_2_3.mp3",
+        "pronunciationText": "How long have you been here?",
+        "order": 3,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_2_4",
+        "lessonId": "lesson_2",
+        "text": "What do you usually do on weekends?",
+        "audioPath": "assets/audio/lesson_2/phrase_2_4.mp3",
+        "pronunciationText": "What do you usually do on weekends?",
+        "order": 4,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_2_5",
+        "lessonId": "lesson_2",
+        "text": "I've been working from home lately.",
+        "audioPath": "assets/audio/lesson_2/phrase_2_5.mp3",
+        "pronunciationText": "I've been working from home lately.",
+        "order": 5,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_2_6",
+        "lessonId": "lesson_2",
+        "text": "Do you have any plans for the weekend?",
+        "audioPath": "assets/audio/lesson_2/phrase_2_6.mp3",
+        "pronunciationText": "Do you have any plans for the weekend?",
+        "order": 6,
+        "difficulty": "medium"
+      }
+    ]
+  },
+  {
+    "id": "lesson_3",
+    "title": "Workplace English",
+    "description": "Common phrases used in professional settings.",
+    "level": "Beginner",
+    "order": 3,
+    "phrases": [
+      {
+        "id": "phrase_3_1",
+        "lessonId": "lesson_3",
+        "text": "I'll take care of it.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_1.mp3",
+        "pronunciationText": "I'll take care of it.",
+        "order": 1,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_3_2",
+        "lessonId": "lesson_3",
+        "text": "Let me check on that.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_2.mp3",
+        "pronunciationText": "Let me check on that.",
+        "order": 2,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_3_3",
+        "lessonId": "lesson_3",
+        "text": "I'll get back to you.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_3.mp3",
+        "pronunciationText": "I'll get back to you.",
+        "order": 3,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_3_4",
+        "lessonId": "lesson_3",
+        "text": "Does that make sense?",
+        "audioPath": "assets/audio/lesson_3/phrase_3_4.mp3",
+        "pronunciationText": "Does that make sense?",
+        "order": 4,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_3_5",
+        "lessonId": "lesson_3",
+        "text": "We're running a little behind.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_5.mp3",
+        "pronunciationText": "We're running a little behind.",
+        "order": 5,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_3_6",
+        "lessonId": "lesson_3",
+        "text": "I'll keep you posted.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_6.mp3",
+        "pronunciationText": "I'll keep you posted.",
+        "order": 6,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_3_7",
+        "lessonId": "lesson_3",
+        "text": "Let me look into it.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_7.mp3",
+        "pronunciationText": "Let me look into it.",
+        "order": 7,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_3_8",
+        "lessonId": "lesson_3",
+        "text": "I'll get that done today.",
+        "audioPath": "assets/audio/lesson_3/phrase_3_8.mp3",
+        "pronunciationText": "I'll get that done today.",
+        "order": 8,
+        "difficulty": "easy"
+      }
+    ]
+  },
+  {
+    "id": "lesson_4",
+    "title": "Natural American Expressions",
+    "description": "Common phrases native speakers use in daily life.",
+    "level": "Beginner",
+    "order": 4,
+    "phrases": [
+      {
+        "id": "phrase_4_1",
+        "lessonId": "lesson_4",
+        "text": "Give me a second.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_1.mp3",
+        "pronunciationText": "Give me a second.",
+        "order": 1,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_2",
+        "lessonId": "lesson_4",
+        "text": "No worries.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_2.mp3",
+        "pronunciationText": "No worries.",
+        "order": 2,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_3",
+        "lessonId": "lesson_4",
+        "text": "Sounds good.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_3.mp3",
+        "pronunciationText": "Sounds good.",
+        "order": 3,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_4",
+        "lessonId": "lesson_4",
+        "text": "That works for me.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_4.mp3",
+        "pronunciationText": "That works for me.",
+        "order": 4,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_5",
+        "lessonId": "lesson_4",
+        "text": "I'm not sure.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_5.mp3",
+        "pronunciationText": "I'm not sure.",
+        "order": 5,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_6",
+        "lessonId": "lesson_4",
+        "text": "I'll figure it out.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_6.mp3",
+        "pronunciationText": "I'll figure it out.",
+        "order": 6,
+        "difficulty": "medium"
+      },
+      {
+        "id": "phrase_4_7",
+        "lessonId": "lesson_4",
+        "text": "Hang on a second.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_7.mp3",
+        "pronunciationText": "Hang on a second.",
+        "order": 7,
+        "difficulty": "easy"
+      },
+      {
+        "id": "phrase_4_8",
+        "lessonId": "lesson_4",
+        "text": "Let me think about it.",
+        "audioPath": "assets/audio/lesson_4/phrase_4_8.mp3",
+        "pronunciationText": "Let me think about it.",
+        "order": 8,
+        "difficulty": "medium"
+      }
+    ]
+  }
+]

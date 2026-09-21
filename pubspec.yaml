@@ -1,0 +1,60 @@
+name: listen_repeat
+description: "US English shadowing and speaking practice app."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+  just_audio: ^0.9.36
+  record: ^7.1.1
+  permission_handler: ^11.3.1
+  shared_preferences: ^2.3.2
+  path_provider: ^2.1.4
+  provider: ^6.1.2
+  path: ^1.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
+    - assets/audio/lesson_1/phrase_1_1.mp3
+    - assets/audio/lesson_1/phrase_1_2.mp3
+    - assets/audio/lesson_1/phrase_1_3.mp3
+    - assets/audio/lesson_1/phrase_1_4.mp3
+    - assets/audio/lesson_1/phrase_1_5.mp3
+    - assets/audio/lesson_1/phrase_1_6.mp3
+    - assets/audio/lesson_1/phrase_1_7.mp3
+    - assets/audio/lesson_1/phrase_1_8.mp3
+    - assets/audio/lesson_2/phrase_2_1.mp3
+    - assets/audio/lesson_2/phrase_2_2.mp3
+    - assets/audio/lesson_2/phrase_2_3.mp3
+    - assets/audio/lesson_2/phrase_2_4.mp3
+    - assets/audio/lesson_2/phrase_2_5.mp3
+    - assets/audio/lesson_2/phrase_2_6.mp3
+    - assets/audio/lesson_3/phrase_3_1.mp3
+    - assets/audio/lesson_3/phrase_3_2.mp3
+    - assets/audio/lesson_3/phrase_3_3.mp3
+    - assets/audio/lesson_3/phrase_3_4.mp3
+    - assets/audio/lesson_3/phrase_3_5.mp3
+    - assets/audio/lesson_3/phrase_3_6.mp3
+    - assets/audio/lesson_3/phrase_3_7.mp3
+    - assets/audio/lesson_3/phrase_3_8.mp3
+    - assets/audio/lesson_4/phrase_4_1.mp3
+    - assets/audio/lesson_4/phrase_4_2.mp3
+    - assets/audio/lesson_4/phrase_4_3.mp3
+    - assets/audio/lesson_4/phrase_4_4.mp3
+    - assets/audio/lesson_4/phrase_4_5.mp3
+    - assets/audio/lesson_4/phrase_4_6.mp3
+    - assets/audio/lesson_4/phrase_4_7.mp3
+    - assets/audio/lesson_4/phrase_4_8.mp3
